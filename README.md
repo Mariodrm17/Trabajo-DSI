@@ -26,6 +26,6 @@ Repositorio del **Grupo 5** para la asignatura *Dirección de Sistemas de Inform
 | [Diego Moys](https://github.com/TheMoys) |
 | [Adriana Rodezno](https://github.com/adri-rodezno)  |
 | [Daniela Moran](https://github.com/Danielamorg)     |
-| [](https://github.com/)   |
+| [Melanie Fernanda](https://github.com/MelanieFernanda)   |
 | [](https://github.com/)      |
 | [](https://github.com/)    |
