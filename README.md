@@ -27,5 +27,5 @@ Repositorio del **Grupo 5** para la asignatura *Dirección de Sistemas de Inform
 | [Adriana Rodezno](https://github.com/adri-rodezno)  |
 | [Daniela Moran](https://github.com/Danielamorg)     |
 | [Melanie Fernanda](https://github.com/MelanieFernanda)   |
-| [](https://github.com/)      |
+| [Manuela Grizoni](https://github.com/ManuelaGrzoni)      |
 | [](https://github.com/)    |
