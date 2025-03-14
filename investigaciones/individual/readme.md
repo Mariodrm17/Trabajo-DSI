@@ -10,7 +10,7 @@ _Cada miembro ha realizado un análisis completo de su huella digital siguiendo 
 //poned entre los corchetes vuestro numero de estudiante del panal
 | Código de Estudiante                                           |
 |----------------------------------------------------------------|
-| [2022020036](/investigaciones/individual/2021020045/README.md) |
+| [2022020036](/investigaciones/individual/2022020036/readme.md) |
 | [](/investigaciones/individual/2021030254/README.md) |
 | [](/investigaciones/individual/2022020011/README.md) |
 | [](/investigaciones/individual/2022020017/README.md) |
