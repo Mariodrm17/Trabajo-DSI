@@ -12,7 +12,7 @@ Repositorio del **Grupo 5** para la asignatura *Dirección de Sistemas de Inform
 | Rama | Estado | Enlace |
 |------|--------|-------------|
 | `main` | Rama principal | - |
-| `entrega003` |  Análisis de Huella & Salud Digital | [Ver entrega003](https://github.com/Mariodrm17/Trabajo-DSI/tree/entrega003) |
+| `entrega003` |  Análisis de Huella & Salud Digital | [Ver entrega003](https://github.com/Mariodrm17/Trabajo-DSI/tree/entrega-003) |
 
 ---
     
