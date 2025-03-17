@@ -44,3 +44,34 @@ Foros especializados
 | Tiktok y Discord                               | Comparto vídeos entre plataformas                                    |
 | Tiktok e Instagram                             | Las plataformas comparten usuarios en sus biografías                 |
 
+## 3. Verificación de Seguridad
+
+### A) Have I been Pwned?
+| *Dirección de correo electrónico*              | *Pwnage/No Pwnage*    |  *Observaciones*                                        |
+| ---------------------------------------------- | --------------------- | ------------------------------------------------------- |
+| daniela.moran@alumnos.uneatlantico.es          | No Pwnage             | No se han filtrado datos en la cuenta de la universidad |
+
+### B) Interacciones con IA
+| *Plataforma de IA*                             | *Consulta*                    |  *Respuesta*            | *Observaciones*                             |
+| ---------------------------------------------- | ----------------------------  | ----------------------- |-------------------------------------------- |
+| ChatGPT                                        | Límites de ChatGPT            | Información técnica     | Simplificar la información para no técnicos |
+| ChatGPT                                        | Cómo hacer un resumen rápido  | Identiicar ideas clave  | Respuesta clra y simple pero útil           |
+
+### C) Auditoría de permisos de Apps
+| *App*                                          | *Cámara*     |  *Micrófono*   | *Ubicación*      |  *Contactos*    |
+| ---------------------------------------------- | ------------ |--------------  | ---------------  |---------------- |
+| Tiktok                                         | Sí           |  Sí            | No               | Sí              |
+| Instagram                                      | Sí           |  Sí            | Sí               | Sí              |
+| ChatGPT                                        | No           |  No            | Sí               | No              | 
+    * ChatGPT no necesita acceso a funciones de hardware
+
+### D) Revisión de servicios vinculados
+Google
+| *Nº Dispositivos vinculados*                   | *Nº Dispositivos vinculados conocidos*     |  *Nº Apps vinculadas*   | *Nº Apps vinculadas conocidas*      | 
+| ---------------------------------------------- | ---------------------------------------    |--------------------     | -------------------------------     |
+| 5                                              | 4                                          |  24                     | 16                                  |
+
+Microsoft
+| *Nº Dispositivos vinculados*                   | *Nº Dispositivos vinculados conocidos*     |  *Nº Apps vinculadas*   | *Nº Apps vinculadas conocidas*      | 
+| ---------------------------------------------- | ---------------------------------------    |--------------------     | -------------------------------     |
+| 2                                              | 2                                          |  0                      | 0                                   |
