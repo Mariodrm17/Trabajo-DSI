@@ -11,7 +11,7 @@ _Cada miembro ha realizado un análisis completo de su huella digital siguiendo 
 | Código de Estudiante                                           |
 |----------------------------------------------------------------|
 | [2022020036](/investigaciones/individual/2022020036/readme.md) |
-| [2022020080](/investigaciones/individual/2021030254/README.md](https://github.com/Mariodrm17/Trabajo-DSI/blob/entrega-003/investigaciones/individual/2022030080/README.md) |
+| [2022020080](https://github.com/Mariodrm17/Trabajo-DSI/blob/entrega-003/investigaciones/individual/2022030080/README.md) |
 | [](/investigaciones/individual/2022020011/README.md) |
 | [](/investigaciones/individual/2022020017/README.md) |
 | [](/investigaciones/individual/2022020033/README.md) |
