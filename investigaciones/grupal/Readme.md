@@ -13,13 +13,13 @@
 
 //despues de los puntos suspensivos poned las dos ultimas cifras de vuestro numero de alumno
 
-| Métrica                        | ...36 | ... | ... | ... | ... | ... | ... | ... | Patrón grupal<br>(Media y desviación) |
+| Métrica                        | ...36 | ...80 | ... | ... | ... | ... | ... | ... | Patrón grupal<br>(Media y desviación) |
 |--------------------------------|-------|-------|-------|-------|-------|-------|-------|-------|---------------------------------------|
-| Índice de exposición global    |       |       |       |       |       |       |       |       |                                       |
-| Nº total de hallazgos          |       |       |       |       |       |       |       |       |                                       |
-| % hallazgos en control total   |       |       |       |       |       |       |       |       |                                       |
-| % hallazgos en control parcial |       |       |       |       |       |       |       |       |                                       |
-| % hallazgos sin control        |       |       |       |       |       |       |       |       |                                       |
+| Índice de exposición global    |       |  0,76 |       |       |       |       |       |       |                                       |
+| Nº total de hallazgos          |       |   2   |       |       |       |       |       |       |                                       |
+| % hallazgos en control total   |       |   0%  |       |       |       |       |       |       |                                       |
+| % hallazgos en control parcial |       |  50%  |       |       |       |       |       |       |                                       |
+| % hallazgos sin control        |       |  50%  |       |       |       |       |       |       |                                       |
 
 </div>
 
@@ -27,14 +27,14 @@
 
 <div align=center>
 
-| Plataforma      | ...36 | ... | ... | ... | ... | ... | ... | ... | Total grupo |
+| Plataforma      | ...36 | ...80 | ... | ... | ... | ... | ... | ... | Total grupo |
 |-----------------|-------|-------|-------|-------|-------|-------|-------|-------|-------------|
-| Redes Sociales  |       |       |       |       |       |       |       |       |             |
-| Foros/Blogs     |       |       |       |       |       |       |       |       |             |
-| Noticias        |       |       |       |       |       |       |       |       |             |
-| Documentos      |       |       |       |       |       |       |       |       |             |
-| Imágenes/Videos |       |       |       |       |       |       |       |       |             |
-| Otros           |       |       |       |       |       |       |       |       |             |
+| Redes Sociales  |       |  50%  |       |       |       |       |       |       |             |
+| Foros/Blogs     |       |   0%  |       |       |       |       |       |       |             |
+| Noticias        |       |   0%  |       |       |       |       |       |       |             |
+| Documentos      |       |  50%  |       |       |       |       |       |       |             |
+| Imágenes/Videos |       |   0%  |       |       |       |       |       |       |             |
+| Otros           |       |   0%  |       |       |       |       |       |       |             |
 
 </div>
 
@@ -42,14 +42,14 @@
 
 <div align=center>
 
-| Vulnerabilidad             | ...36 | ... | ... | ... | ... | ... | ... | ... | % Grupo | Riesgo medio |
+| Vulnerabilidad             | ...36 | ...80 | ... | ... | ... | ... | ... | ... | % Grupo | Riesgo medio |
 |----------------------------|-------|-------|-------|-------|-------|-------|-------|-------|---------|--------------|
-| Datos personales expuestos |       |       |       |       |       |       |       |       |         |              |
-| Información profesional    |       |       |       |       |       |       |       |       |         |              |
-| Fotos personales           |       |       |       |       |       |       |       |       |         |              |
-| Menciones en medios        |       |       |       |       |       |       |       |       |         |              |
-| Documentos académicos      |       |       |       |       |       |       |       |       |         |              |
-| Perfiles abandonados       |       |       |       |       |       |       |       |       |         |              |
+| Datos personales expuestos |       |  50%  |       |       |       |       |       |       |         |              |
+| Información profesional    |       |   0%  |       |       |       |       |       |       |         |              |
+| Fotos personales           |       |   0%  |       |       |       |       |       |       |         |              |
+| Menciones en medios        |       |   0%  |       |       |       |       |       |       |         |              |
+| Documentos académicos      |       |   0%  |       |       |       |       |       |       |         |              |
+| Perfiles abandonados       |       |  50%  |       |       |       |       |       |       |         |              |
 
 </div>
 
@@ -57,10 +57,10 @@
 
 <div align=center>
 
-| Tipo de control | ...36 | ... | ... | ... | ... | ... | ... | ... | % Grupo | Riesgo promedio |
+| Tipo de control | ...36 | ...80 | ... | ... | ... | ... | ... | ... | % Grupo | Riesgo promedio |
 |-----------------|-------|-------|-------|-------|-------|-------|-------|-------|---------|-----------------|
-| Total           |       |       |       |       |       |       |       |       |         |                 |
-| Parcial         |       |       |       |       |       |       |       |       |         |                 |
-| Nulo            |       |       |       |       |       |       |       |       |         |                 |
+| Total           |       |   0%  |       |       |       |       |       |       |         |                 |
+| Parcial         |       |  50%  |       |       |       |       |       |       |         |                 |
+| Nulo            |       |  50%  |       |       |       |       |       |       |         |                 |
 
 </div>
