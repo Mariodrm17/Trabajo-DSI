@@ -62,7 +62,7 @@ Foros especializados
 | ---------------------------------------------- | ------------ |--------------  | ---------------  |---------------- |
 | Tiktok                                         | Sí           |  Sí            | No               | Sí              |
 | Instagram                                      | Sí           |  Sí            | Sí               | Sí              |
-| ChatGPT                                        | No           |  No            | Sí               | No              | 
+| ChatGPT                                        | No           |  No            | No               | No              | 
     * ChatGPT no necesita acceso a funciones de hardware
 
 ### D) Revisión de servicios vinculados
