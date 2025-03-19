@@ -54,5 +54,5 @@ Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) encon
 | **ChatGPT** | Preguntas académicas                | Textos académidos | No guardar datos en memoria |
 
 ### Índice de exposisción
-![Índice de exposisción](./indice)
+![Índice de exposisción](./indice.png)
 
