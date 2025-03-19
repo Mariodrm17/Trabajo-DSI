@@ -52,5 +52,7 @@ Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) encon
 | Plataforma IA | Tipo de Interacción                 | Datos Compartidos | Configuración Privacidad |
 |---------------|-------------------------------------|--------------------|--------------------------|
 | **ChatGPT** | Preguntas académicas                | Textos académidos | No guardar datos en memoria |
-| **GitHub Copilot** | Preguntas de desarrollo de software | Fragmentos código | No existe |
+
+### Índice de exposisción
+![Índice de exposisción]()
 
