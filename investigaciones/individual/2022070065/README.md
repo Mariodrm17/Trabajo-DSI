@@ -38,7 +38,7 @@
 
 Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) encontramos los siguientes resultados:
 
-![Have I Been Pwned]()
+![Have I Been Pwned](investigaciones/individual/2022070065/HaveIBeenPwned.png)
 
 
 ### Servicios vinculados
