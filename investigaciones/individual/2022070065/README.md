@@ -2,7 +2,8 @@
 
 ### EgoSurfing
 
-![EgoSurfing](./EggSurfing.png)
+![EgoSurfing](./EgoSurfing.png)
+![](./EgoSurfing2.png)
 
 ## Análisis de plataformas
 
