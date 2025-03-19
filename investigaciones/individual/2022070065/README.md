@@ -2,7 +2,7 @@
 
 ### EgoSurfing
 
-![EgoSurfing](investigaciones/individual/2022070065/EggSurfing.png)
+![EgoSurfing](./EggSurfing.png)
 
 ## Análisis de plataformas
 
@@ -38,7 +38,7 @@
 
 Utilizando la herramienta [Have I Been Pwned](https://haveibeenpwned.com/) encontramos los siguientes resultados:
 
-![Have I Been Pwned](investigaciones/individual/2022070065/HaveIBeenPwned.png)
+![Have I Been Pwned](./HaveIBeenPwned.png)
 
 
 ### Servicios vinculados
