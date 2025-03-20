@@ -29,6 +29,6 @@ Repositorio del **Grupo 5** para la asignatura *Dirección de Sistemas de Inform
 | [Melanie Fernanda](https://github.com/MelanieFernanda)   |
 | [Manuela Grizoni](https://github.com/ManuelaGrzoni)      |
 | [Samuel Vega](https://github.com/Samuelvga7)    |
-| [](https://github.com/)    |
+| [Juan Pablo Carrillo](https://github.com/jpcarrillo1)    |
 | [](https://github.com/)    |
 | [](https://github.com/)    |
